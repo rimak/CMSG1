@@ -1,0 +1,16 @@
+{
+    "name": "mak/cmsg1",
+    "authors": [
+        {
+            "name": "Rimak",
+            "email": "mcharcot@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Controller\\":"controller/",
+            "Model\\":"model/"
+        }
+    }
+}
